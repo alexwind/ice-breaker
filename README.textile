@@ -6,7 +6,7 @@ h2. It comes fully loaded with
 
  * *Restful_authentication*, Setup with email activation, and forgot_password features built in
  * *Action_mailer_tls*, Which gives us the ability to use Gmail as your smtp server for sending emails
- * *Will_paginate*
+ * *Will_paginate*, Pagination plugin for Ruby
  * *Backup_fu*, which backs up your app and database to an offsite server (Amazon s3)
  * *Paperclip*, for image/file uploads, and a form for users uploading avatars
  * *Acts_as_taggable_on_steroids*, for tagging things like photos and posts

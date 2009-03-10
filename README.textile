@@ -15,3 +15,5 @@ h2. It comes fully loaded with
  * *Acts_as_commentable* for adding comments to your models and it takes care of polymorphic associations for you
  * *ReCAPTCHA*, they're a pain in the ass but we need 'em
  * *TinyMCE*, An HTML Editor, always handy to have that around
+ * *960 Grid System*, a super handy CSS framework which let's you whip up a complex layout in minutes
+ * *Misc*, Reset CSS, IE PNG Fix, public/index.html and public/images/rails.png are deleted, and some misc routes are setup for you.
